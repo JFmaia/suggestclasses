@@ -76,7 +76,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'scdb_dev',
         'USER': 'sc_user',
-        'PASSWORD': 'sc_user',
+        'PASSWORD': '5c_U53r@tata',
         'HOST': '127.0.0.1',
         'PORT': '3306',
         'TEST': {
